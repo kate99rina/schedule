@@ -1,0 +1,37 @@
+.table{
+    width: 2000px;
+    height: 820px;
+    border: 10px solid white;
+}
+.column{
+    width: 300px;
+    height: 800px;
+    margin: 0px;
+    border: 10px solid white;
+    background-color: rgb(255, 179, 198);
+    display: inline-block;
+    vertical-align: top;
+}
+.column-head{
+    height: 50px;
+    background-color: rgb(255, 179, 198);
+    width: 300px;
+    border-bottom: 5px solid white;
+    display: grid;
+}
+p{
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  display: inline-block;
+
+}
+.task{
+   height: 100px;
+   background-color: white;
+   width: 290px;
+   margin: 5px;
+   display: grid;
+}
+
+
